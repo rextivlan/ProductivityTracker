@@ -10,4 +10,5 @@ Check it out at: https://rextivlan.github.io/Task-List/
 * Check out the screenshots down below
 ***
 ![Screenshot1](img/ScreenshotTL0.png)
+***
 ![Screenshot1](img/ScreenshotTL1.png)

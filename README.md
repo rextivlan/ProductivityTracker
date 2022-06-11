@@ -1,5 +1,5 @@
 # ProductivityTracker
-Web application to create a list of tasks and store them in the browser's local storage
+Web application to keep track of your productivity. The application caches the tasks on to the browser's local storage.
 ## Live Demo
 Check it out at: https://rextivlan.github.io/Task-List/
 ### Description
